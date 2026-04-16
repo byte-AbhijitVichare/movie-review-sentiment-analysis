@@ -2,10 +2,6 @@
 
 A Machine Learning web application that analyzes movie reviews and predicts whether the sentiment is Positive 😊 or Negative 😡 using Natural Language Processing (NLP).
 
-🚀 Live Demo
-
-
-
 📌 Project Overview
 
 This project uses TF-IDF vectorization and a Logistic Regression model to classify text-based movie reviews. The model is deployed using Streamlit, allowing users to interact with it through a simple web interface.
